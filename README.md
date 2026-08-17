@@ -1,5 +1,9 @@
 # 🎓 Student Management System
 
+## 🚀 Live Demo
+
+[👉 Open Student Management System](https://student-management-system-a9bvwqt3hq5pe8uyodxymu.streamlit.app/)
+
 A simple browser-based version of my Python Student Management System.
 
 ## Features
